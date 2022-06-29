@@ -1,6 +1,8 @@
 # vuevideo
 
-This template should help get you started developing with Vue 3 in Vite.
+Developing with Vue 3 in Vite for building a Video service for uploading
+and viewing personal videos online.
+
 
 ## Recommended IDE Setup
 
